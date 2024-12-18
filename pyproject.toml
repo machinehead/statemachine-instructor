@@ -12,3 +12,4 @@ build-backend = "poetry.core.masonry.api"
 [tool.poetry.dependencies]
 python = "^3.12"
 pytest = "^8.3.4"
+instructor = "^1.7.0"
